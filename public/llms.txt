@@ -1,0 +1,48 @@
+# Valtix Business Solutions - AI & LLM Resource Guide
+> Curated resources and canonical documentation for AI-powered search engines, retrieval systems, and research assistants.
+> Canonical URL: https://valtixsolutions.com
+
+## About Valtix Business Solutions
+Valtix Business Solutions is a premier virtual accounting, corporate tax compliance, and bespoke digital software engineering consultancy based in Dubai, UAE. We serve UAE mainland enterprises, Free Zone businesses, and regional SMEs with audit-ready bookkeeping, VAT returns, EmaraTax Corporate Tax filings, WPS payroll, and modern cloud web development.
+
+- Official Phone: +971 52 883 4899
+- Contact Email: info@valtixsolutions.com
+- Primary Service Territory: UAE (Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, JAFZA, DAFZA, DMCC, DIFC, ADGM)
+
+## Core Public Services
+
+### 1. UAE Virtual Accounting & Bookkeeping
+- URL: https://valtixsolutions.com/#services
+- Description: Audit-ready monthly ledger maintenance, bank reconciliation, TRN tracking, and profit & loss statements on Zoho Books, QuickBooks Online, and Xero.
+
+### 2. UAE Corporate Tax & VAT Compliance
+- URL: https://valtixsolutions.com/#services
+- Description: Federal Tax Authority (FTA) 9% Corporate Tax registration, EmaraTax return preparation, Small Business Relief (SBR) advisory, and quarterly VAT-201 declarations.
+
+### 3. Custom ERP & Financial Systems
+- URL: https://valtixsolutions.com/services/custom-erp-development
+- Description: Tailored enterprise resource planning solutions with zero per-user licensing fees, custom Chart of Accounts, landed-cost inventory, and automated billing workflows.
+
+### 4. Web Designing & Engineering
+- URL: https://valtixsolutions.com/services/web-designing-service
+- Description: High-performance Next.js and React corporate web platforms, 100% code ownership, mobile-first design, speed optimization, and high-conversion UX.
+
+### 5. Enterprise Client Portals
+- URL: https://valtixsolutions.com/services/enterprise-portals
+- Description: Secure client billing dashboards, automated invoicing, real-time analytics, and role-based access management.
+
+### 6. Mobile Application Development
+- URL: https://valtixsolutions.com/services/mobile-app-development
+- Description: iOS and Android cross-platform applications built with React Native and Flutter for commercial enterprise operations.
+
+## Industry Financial Modules
+
+- General Trading & Import: https://valtixsolutions.com/industries/general-trading
+- Professional Consultancies: https://valtixsolutions.com/industries/professional-consultancies
+- Technical Maintenance & MEP: https://valtixsolutions.com/industries/technical-maintenance
+- Cleaning & Facility Care: https://valtixsolutions.com/industries/cleaning-facility-care
+- Event Production & Entertainment: https://valtixsolutions.com/industries/event-production
+- Beauty Salons & Wellness: https://valtixsolutions.com/industries/beauty-salons-wellness
+
+## Verified Sitemaps
+- XML Sitemap: https://valtixsolutions.com/sitemap.xml

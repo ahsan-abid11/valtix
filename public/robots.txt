@@ -1,0 +1,39 @@
+# robots.txt for Valtix Business Solutions (Production)
+# https://valtixsolutions.com
+
+# 1. Main Search Engines (Allow indexing of all public pages)
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Applebot
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Yandex
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# 2. Generative AI Search & Answer Engines (Allowed for AI Retrieval & Discoverability)
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+# 3. Model Training Bots (Configurable Crawling Policy)
+User-agent: GPTBot
+User-agent: ClaudeBot
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+# 4. Default for All Other Web Crawlers
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /_next/
+
+# XML Sitemap Location
+Sitemap: https://valtixsolutions.com/sitemap.xml
