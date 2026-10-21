@@ -82,6 +82,7 @@ export default function RootLayout({ children }) {
           href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Syne:wght@700;800&family=Space+Grotesk:wght@600;700&family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Poppins:wght@400;600;700;800&display=swap"
           rel="stylesheet"
         />
+            <meta name="google-site-verification" content="dQyaQGfy7IykiM2SHfUR5XdXFNwtXWrYuqlren73cTg" />
         <link
           href="https://fonts.cdnfonts.com/css/product-sans"
           rel="stylesheet"
